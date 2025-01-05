@@ -1,0 +1,11 @@
+D:\c#\web\sclass\bin\Debug\net8.0\sclass.deps.json
+D:\c#\web\sclass\bin\Debug\net8.0\sclass.dll
+D:\c#\web\sclass\bin\Debug\net8.0\sclass.pdb
+D:\c#\web\sclass\obj\Debug\net8.0\sclass.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\web\sclass\obj\Debug\net8.0\sclass.AssemblyInfoInputs.cache
+D:\c#\web\sclass\obj\Debug\net8.0\sclass.AssemblyInfo.cs
+D:\c#\web\sclass\obj\Debug\net8.0\sclass.csproj.CoreCompileInputs.cache
+D:\c#\web\sclass\obj\Debug\net8.0\sclass.dll
+D:\c#\web\sclass\obj\Debug\net8.0\refint\sclass.dll
+D:\c#\web\sclass\obj\Debug\net8.0\sclass.pdb
+D:\c#\web\sclass\obj\Debug\net8.0\ref\sclass.dll

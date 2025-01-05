@@ -1,0 +1,15 @@
+D:\c#\web\dataAccesslayer\bin\Debug\net8.0\dataAccesslayer.deps.json
+D:\c#\web\dataAccesslayer\bin\Debug\net8.0\dataAccesslayer.dll
+D:\c#\web\dataAccesslayer\bin\Debug\net8.0\dataAccesslayer.pdb
+D:\c#\web\dataAccesslayer\bin\Debug\net8.0\sclass.dll
+D:\c#\web\dataAccesslayer\bin\Debug\net8.0\sclass.pdb
+D:\c#\web\dataAccesslayer\obj\Debug\net8.0\dataAccesslayer.csproj.AssemblyReference.cache
+D:\c#\web\dataAccesslayer\obj\Debug\net8.0\dataAccesslayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\web\dataAccesslayer\obj\Debug\net8.0\dataAccesslayer.AssemblyInfoInputs.cache
+D:\c#\web\dataAccesslayer\obj\Debug\net8.0\dataAccesslayer.AssemblyInfo.cs
+D:\c#\web\dataAccesslayer\obj\Debug\net8.0\dataAccesslayer.csproj.CoreCompileInputs.cache
+D:\c#\web\dataAccesslayer\obj\Debug\net8.0\dataAcce.7F023DF4.Up2Date
+D:\c#\web\dataAccesslayer\obj\Debug\net8.0\dataAccesslayer.dll
+D:\c#\web\dataAccesslayer\obj\Debug\net8.0\refint\dataAccesslayer.dll
+D:\c#\web\dataAccesslayer\obj\Debug\net8.0\dataAccesslayer.pdb
+D:\c#\web\dataAccesslayer\obj\Debug\net8.0\ref\dataAccesslayer.dll
