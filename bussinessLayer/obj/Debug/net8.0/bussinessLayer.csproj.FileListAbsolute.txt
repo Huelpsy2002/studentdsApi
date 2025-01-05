@@ -1,0 +1,17 @@
+D:\c#\web\bussinessLayer\bin\Debug\net8.0\bussinessLayer.deps.json
+D:\c#\web\bussinessLayer\bin\Debug\net8.0\bussinessLayer.dll
+D:\c#\web\bussinessLayer\bin\Debug\net8.0\bussinessLayer.pdb
+D:\c#\web\bussinessLayer\bin\Debug\net8.0\dataAccesslayer.dll
+D:\c#\web\bussinessLayer\bin\Debug\net8.0\sclass.dll
+D:\c#\web\bussinessLayer\bin\Debug\net8.0\dataAccesslayer.pdb
+D:\c#\web\bussinessLayer\bin\Debug\net8.0\sclass.pdb
+D:\c#\web\bussinessLayer\obj\Debug\net8.0\bussinessLayer.csproj.AssemblyReference.cache
+D:\c#\web\bussinessLayer\obj\Debug\net8.0\bussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\web\bussinessLayer\obj\Debug\net8.0\bussinessLayer.AssemblyInfoInputs.cache
+D:\c#\web\bussinessLayer\obj\Debug\net8.0\bussinessLayer.AssemblyInfo.cs
+D:\c#\web\bussinessLayer\obj\Debug\net8.0\bussinessLayer.csproj.CoreCompileInputs.cache
+D:\c#\web\bussinessLayer\obj\Debug\net8.0\bussines.9246A86E.Up2Date
+D:\c#\web\bussinessLayer\obj\Debug\net8.0\bussinessLayer.dll
+D:\c#\web\bussinessLayer\obj\Debug\net8.0\refint\bussinessLayer.dll
+D:\c#\web\bussinessLayer\obj\Debug\net8.0\bussinessLayer.pdb
+D:\c#\web\bussinessLayer\obj\Debug\net8.0\ref\bussinessLayer.dll
